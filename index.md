@@ -1,1 +1,1 @@
-index.md
+[View my Resume](resume.html)
